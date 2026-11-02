@@ -1,0 +1,10 @@
+venv/
+packages/
+__pycache__/
+*.pyc
+.env
+data/
+.git/
+.gitignore
+_proxy_test.py
+README.md
